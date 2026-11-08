@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lia AI</string>
+    <string name="accessibility_service_label">LiaAI Screen &amp; Mobile Control Assistant</string>
+    <string name="accessibility_service_description">Enables LiaAI to perform voice-driven phone controls, navigate screens, tap buttons, scroll, and assist with hands-free operation.</string>
+    <string name="accessibility_service_summary">Hands-free voice and mobile control assistant</string>
+</resources>

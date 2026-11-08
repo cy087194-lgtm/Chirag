@@ -1,0 +1,6 @@
+{
+  "name": "Lia AI",
+  "description": "Lia AI voice and screen assistant with generative forge capabilities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

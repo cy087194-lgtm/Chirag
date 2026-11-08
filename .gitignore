@@ -1,0 +1,26 @@
+# Build output
+/build/
+/app/build/
+
+# Gradle
+.gradle/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Release signing — NEVER commit these
+keystore.properties
+*.keystore
+*.jks
+
+# License backend config
+app/google-services.json
+app/src/direct/res/values/license_backend.xml
+
+# OS files
+.DS_Store
+Thumbs.db
